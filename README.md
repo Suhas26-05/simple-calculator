@@ -50,8 +50,3 @@ This is a simple calculator application built using Python's Tkinter library. It
 
 Contributions are welcome! Feel free to fork this project, make improvements, and submit a pull request.
 ```
-
-### Notes:
-1. **Customization**: Replace `your-username` and `simple-calculator` with your actual GitHub username and repository name.
-2. **Screenshot**: If you have a screenshot of the calculator, save it as `screenshot.png` in your repository and the README will display it.
-3. **License**: Include a `LICENSE` file in your repository if you want to license the project under the MIT License or another license of your choice.
