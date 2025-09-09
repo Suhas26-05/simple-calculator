@@ -48,4 +48,4 @@ This is a simple calculator application built using Python's Tkinter library. It
 ## Contributing
 
 Contributions are welcome! Feel free to fork this project, make improvements, and submit a pull request.
-```
+
