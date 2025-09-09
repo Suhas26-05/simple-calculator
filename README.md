@@ -1,4 +1,3 @@
-```markdown
 # Simple Calculator
 
 This is a simple calculator application built using Python's Tkinter library. It provides a graphical user interface (GUI) for performing basic arithmetic operations like addition, subtraction, multiplication, and division.
@@ -30,7 +29,7 @@ This is a simple calculator application built using Python's Tkinter library. It
 
    ```sh
    python simple_calculator.py
-   ```
+
 
 ## Usage
 
